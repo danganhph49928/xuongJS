@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Bánh socola update",
+      "image": "https://cf.shopee.vn/file/d4f0aaa6c5a5a9ee360179d20a8d8ff6",
+      "price": "12000",
+      "description": "scdfff",
+      "id": 3
+    },
+    {
+      "name": "keo milo",
+      "image": "https://th.bing.com/th/id/OIP.3wkBr2IhAj8maVx2QfPzmgHaHa?rs=1&pid=ImgDetMain",
+      "price": "10000",
+      "description": "ngon",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "anhdtph49928@gmail.com",
+      "password": "$2a$10$OjlftUW//pssDrBEP3luHOFO/eg0x8U350JjPYnaAoIJEiB0IVlsC",
+      "name": "Thị Ánh Workspace",
+      "id": 1
+    },
+    {
+      "email": "adtph49928@gmail.com",
+      "password": "$2a$10$zs6GkeEFb6Zl/B2P5Ukja.KpJUbVLdavrxTbAAPM27Opyr0uFZnqC",
+      "name": "Thị Ánh Workspace",
+      "id": 2
+    },
+    {
+      "email": "danganh18032005@gmail.com",
+      "password": "$2a$10$4rAd2UiX4xqVWAOmEp5sEexb85nW44UpTL9eUfVr94wNaPL3XCF7C",
+      "name": "Đồng hồ",
+      "id": 3
+    },
+    {
+      "email": "anhdtph499288@gmail.com",
+      "password": "$2a$10$o4mTY6G/aDRA0djxy81zQukDUiXx97jzQiJS6hGyptEgEzYNxtE6y",
+      "name": "Ánh",
+      "id": 4
+    }
+  ]
+}
